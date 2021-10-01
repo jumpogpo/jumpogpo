@@ -14,7 +14,7 @@
 
 #### Github Stats
 
-[![jumpogpo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpogpo&show_icons=true&theme=dark)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumpogpo&langs_count=8&theme=dark)](https://github.com/jumpogpo)
+[![jumpogpo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpogpo&show_icons=true&theme=dark)](https://github.com/jumpogpo)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumpogpo&layout=compact&theme=dark)]([#](https://github.com/jumpogpo/))
 
 <a href="https://github.com/jumpogpo/"><img alt="Thanapat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumpogpo&bg_color=0000&color=b5b5b5&line=ffffff&point=78fe96&hide_border=true&theme=dark" /></a>
 
