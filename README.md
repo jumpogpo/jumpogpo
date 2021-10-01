@@ -12,7 +12,7 @@
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python)](#) [![Python Badge](https://img.shields.io/badge/-Lua-0e00a8?style=for-the-badge&labelColor=black&logo=lua)](#)
 
-#### Github Stats
+### Github Stats
 
 <br/>
     <a href="https://github.com/jumpogpo/">
