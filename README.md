@@ -19,7 +19,7 @@
         <img alt="Thanapat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jumpogpo&show_icons=true&theme=dark"/>
     </a>
     <a href="https://github.com/jumpogpo/">
-        <img alt="Thanapat's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpogpo&layout=compact&theme=dark"/>
+        <img alt="Thanapat's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpogpo&langs_count=5"/>
     </a>
     <a href="https://github.com/jumpogpo/">
         <img alt="Thanapat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumpogpo&bg_color=0000&color=b5b5b5&line=ffffff&point=78fe96&hide_border=true&theme=dark"/>
