@@ -5,7 +5,7 @@
 - 🏫 I’m study at Sarasas Witaed Rangsit School
 - 📫 How to reach me: chokhun_@hotmail.com
 
-[![Mail Badge](https://img.shields.io/badge/-chokhun_@hotmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](chokhun_@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/-chokhun_@hotmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://thanapat-kp.com)
 
 <!-- TODO: Make technologies links takes you to repositories -->
 ### My skills
