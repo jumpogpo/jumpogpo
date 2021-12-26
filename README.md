@@ -14,7 +14,7 @@
 
 ### Github Stats
 
-<br/>
+<p align="center">
     <a href="https://github.com/jumpogpo/">
         <img alt="Thanapat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jumpogpo&show_icons=true&theme=dark"/>
     </a>
@@ -24,7 +24,7 @@
     <a href="https://github.com/jumpogpo/">
         <img alt="Thanapat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumpogpo&bg_color=0000&color=b5b5b5&line=ffffff&point=78fe96&hide_border=true&theme=dark"/>
     </a>
-<br/>
+</p>
 
 <p align="center">
     <img align="center" src="https://discord.c99.nl/widget/theme-3/432049960012349450.png"><br>
