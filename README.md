@@ -26,9 +26,12 @@
     </a>
 <br/>
 
+<p align="center">
+    <img align="center" src="https://discord.c99.nl/widget/theme-3/432049960012349450.png"><br>
+</p>
+
 ## ❤ Views and Followers
 <a href="https://github.com/jumpogpo/">
     <img src="https://komarev.com/ghpvc/?username=jumpogpo">
 </a>
 <a href="https://github.com/jumpogpo/"><img src="https://img.shields.io/github/followers/jumpogpo?label=Followers&style=social" alt="GitHub Badge"></a>
-<img align="center" src="https://discord.c99.nl/widget/theme-3/432049960012349450.png"><br>
