@@ -1,9 +1,7 @@
-## Hi I’m Thanapat Koedpiam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I’m jumpogpo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 👀 I’m interested in Programing.
 - 🌱 I’m currently learning Python and Lua.
-- 🏫 I’m study at Sarasas Witaed Rangsit School
-- 📫 How to reach me: chokhun_@hotmail.com
 
 [![Mail Badge](https://img.shields.io/badge/-chokhun_@hotmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chokhun_@hotmail.com)
 
