@@ -3,8 +3,6 @@
 - 👀 I’m interested in Programing.
 - 🌱 I’m currently learning Python and Lua.
 
-[![Mail Badge](https://img.shields.io/badge/-chokhun_@hotmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chokhun_@hotmail.com)
-
 <!-- TODO: Make technologies links takes you to repositories -->
 ### My skills
 
