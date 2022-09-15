@@ -1,8 +1,5 @@
 ## Hi I’m バイパー
 
-- 👀 I’m interested in Programing.
-- 🌱 I’m currently learning Python, Lua and Nodejs.
-
 <!-- TODO: Make technologies links takes you to repositories -->
 ### My skills
 
