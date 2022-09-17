@@ -27,6 +27,9 @@
 <a href="https://github.com/jumpogpo/">
     <img src="https://img.shields.io/github/followers/jumpogpo?label=Followers&style=social" alt="GitHub Badge">
 </a>
-<a href="https://github.com/jumpogpo">
-    <img src="https://count.getloli.com/get/@jumpogpo?theme=rule34">
-</a>
+
+<p align="bottom">
+    <a href="https://github.com/jumpogpo">
+        <img src="https://count.getloli.com/get/@jumpogpo?theme=rule34">
+    </a>
+</p>
