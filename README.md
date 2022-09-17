@@ -7,7 +7,7 @@
 </p>
 
 <!-- TODO: Make technologies links takes you to repositories -->
-### My skills
+### Platform, Tools & Language
 
 [![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
