@@ -17,7 +17,7 @@
 
 [![](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/Python-00007D?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
+[![](https://img.shields.io/badge/Lua-00007D?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
