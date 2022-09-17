@@ -40,7 +40,7 @@
     <img align="center" src="https://discord.c99.nl/widget/theme-3/432049960012349450.png"><br>
 </p>
 
-## ❤ Views and Followers
+## ❤ Followers
 <!-- <a href="https://github.com/jumpogpo/">
     ## <img src="https://komarev.com/ghpvc/?username=jumpogpo">
 ## </a> -->
