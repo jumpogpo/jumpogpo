@@ -15,6 +15,7 @@
 
 [![](https://img.shields.io/badge/iPhone-13%20ProMax-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
+[![](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Lua-00007D?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
