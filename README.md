@@ -12,7 +12,6 @@
 [![](https://img.shields.io/badge/macOS-Air%20M2%2013.6-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-
 [![](https://img.shields.io/badge/iPhone-13%20ProMax-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
 [![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
