@@ -38,7 +38,7 @@
         <img alt="jumpogpo Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpogpo&langs_count=100&theme=dark"/>
     </a>
     <a href="https://github.com/jumpogpo/">
-        <img alt="jumpogpo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumpogpo&bg_color=0000&color=b5b5b5&line=ffffff&point=78fe96&hide_border=true&theme=dark"/>
+        <img alt="jumpogpo Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jumpogpo&bg_color=0000&color=b5b5b5&line=ffffff&point=78fe96&hide_border=true&theme=dark"/>
     </a>
     <img align="center" src="https://discord.c99.nl/widget/theme-3/432049960012349450.png"><br>
 </p>
