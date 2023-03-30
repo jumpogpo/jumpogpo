@@ -28,6 +28,8 @@
 [![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=ffffff)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/)
+[![](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=ffffff)](https://gitlab.com/)
 
 ### Github Stats
 
