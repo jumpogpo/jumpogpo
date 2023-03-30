@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Java-f89820?style=flat-square&logoColor=ffffff)](https://www.java.com/en/)
+[![](https://img.shields.io/badge/-Java-ED1D25?style=flat-square&logoColor=ffffff)](https://www.java.com/en/)
 
 [![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=Nestjs&logoColor=ffffff)](https://nestjs.com/)
 [![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
