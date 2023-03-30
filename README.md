@@ -15,18 +15,18 @@
 
 [![](https://img.shields.io/badge/iPhone-13%20ProMax-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
-[![](https://img.shields.io/badge/-TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/Lua-00007D?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-[![](https://img.shields.io/badge/Nestjs-303030?style=flat-square&logo=Nestjs&logoColor=ffffff)](https://nestjs.com/)
-[![](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=ffffff)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=Nestjs&logoColor=ffffff)](https://nestjs.com/)
+[![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=ffffff)](https://npmjs.com/)
+[![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
 
 ### Github Stats
 
