@@ -15,7 +15,7 @@
 
 [![](https://img.shields.io/badge/iPhone-13%20ProMax-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
-[![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/Lua-00007D?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
