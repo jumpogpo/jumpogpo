@@ -26,6 +26,8 @@
 [![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
+[![](https://img.shields.io/badge/Nestjs-303030?style=flat-square&logo=Nestjs&logoColor=f5004a)](https://nestjs.com/)
+
 ### Github Stats
 
 <p align="center">
