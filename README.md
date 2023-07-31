@@ -35,7 +35,7 @@
 
 <div align="center">
     <a href="https://github.com/jumpogpo/">
-        <img alt="jumpogpo Github Stats" src="https://github-readme-stats.vercel.app/api?username=jumpogpo&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+        <img width=450 height=170 alt="jumpogpo Github Stats" src="https://github-readme-stats.vercel.app/api?username=jumpogpo&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
     </a>
     <a href="https://github.com/jumpogpo/">
         <img alt="jumpogpo Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpogpo&theme=dark&layout=compact&hide_border=true&count_private=true"/>
