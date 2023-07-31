@@ -33,7 +33,7 @@
 
 ### Github Stats
 
-<div align="center">
+<p align="center">
     <a href="https://github.com/jumpogpo/">
         <img width=450 height=170 alt="jumpogpo Github Stats" src="https://github-readme-stats.vercel.app/api?username=jumpogpo&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
     </a>
@@ -44,7 +44,7 @@
         <img alt="jumpogpo Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?theme=dark&color=b5b5b5&hide_border=true&bg_color=0000&point=78fe96&username=jumpogpo&line=ffffff"/>
     </a>
     <img align="center" src="https://discord.c99.nl/widget/theme-3/432049960012349450.png"><br>
-</div>
+</p>
 
 ## ❤ Followers
 <!-- <a href="https://github.com/jumpogpo/">
