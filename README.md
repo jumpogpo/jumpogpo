@@ -24,6 +24,8 @@
 [![](https://img.shields.io/badge/-JAVA-%23ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)](https://www.java.com/en/)
 
 [![](https://img.shields.io/badge/NESTJS-%23E0234E?style=flat-square&logo=Nestjs&logoColor=ffffff)](https://nestjs.com/)
+[![](https://img.shields.io/badge/NUXT-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82)](https://nuxt.com/)
+[![](https://img.shields.io/badge/TAILWINDCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/MYSQL-%2300f?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-MONGODB-%234ea94b?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/DOCKER-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
