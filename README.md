@@ -1,7 +1,7 @@
 ## Hi I’m バイパー
 
 <p align="top">
-    <a href="https://github.com/jumpogpo">
+    <a href="https://github.com/jumpogpo" target="_blank">
         <img src="https://count.getloli.com/get/@jumpogpo?theme=rule34">
     </a>
 </p>
@@ -40,16 +40,16 @@
 ### Github Stats
 
 <p align="center">
-    <a href="https://github.com/jumpogpo/">
+    <a href="https://github.com/jumpogpo/" target="_blank">
         <img width=450 height=170 alt="jumpogpo Github Stats" src="https://github-readme-stats.vercel.app/api?username=jumpogpo&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
     </a>
-    <a href="https://github.com/jumpogpo/">
+    <a href="https://github.com/jumpogpo/" target="_blank">
         <img alt="jumpogpo Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpogpo&theme=dark&layout=compact&hide_border=true&count_private=true"/>
     </a>
-    <a href="https://github.com/jumpogpo/">
+    <a href="https://github.com/jumpogpo/" target="_blank">
         <img alt="jumpogpo Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?theme=dark&color=b5b5b5&hide_border=true&bg_color=0000&point=78fe96&username=jumpogpo&line=ffffff"/>
     </a>
-    <a href="https://discord.com/users/432049960012349450">
+    <a href="https://discord.com/users/432049960012349450" target="_blank">
         <img alt="Discord" src="https://lanyard.cnrad.dev/api/432049960012349450"/>
     </a>
 </p>
@@ -58,6 +58,6 @@
 <!-- <a href="https://github.com/jumpogpo/">
     ## <img src="https://komarev.com/ghpvc/?username=jumpogpo">
 ## </a> -->
-<a href="https://github.com/jumpogpo/">
+<a href="https://github.com/jumpogpo/" target="_blank">
     <img src="https://img.shields.io/github/followers/jumpogpo?label=Followers&style=social" alt="GitHub Badge">
 </a>
