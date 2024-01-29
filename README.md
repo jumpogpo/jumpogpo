@@ -49,7 +49,8 @@
     <a href="https://github.com/jumpogpo/">
         <img alt="jumpogpo Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?theme=dark&color=b5b5b5&hide_border=true&bg_color=0000&point=78fe96&username=jumpogpo&line=ffffff"/>
     </a>
-    <img align="center" src="https://discord.c99.nl/widget/theme-3/432049960012349450.png"><br>
+    <img align="center" src="https://lanyard.cnrad.dev/api/432049960012349450"><br>
+    [![Discord Presence](https://lanyard.cnrad.dev/api/432049960012349450)](https://discord.com/users/432049960012349450)
 </p>
 
 ## ❤ Followers
