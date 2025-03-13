@@ -1,4 +1,4 @@
-## Hi I’m バイパー
+## Hi I’m Thanapat Koedpiam
 
 <p align="top">
     <a href="https://github.com/jumpogpo" target="_blank">
